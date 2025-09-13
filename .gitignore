@@ -1,0 +1,16 @@
+# root
+.DS_Store
+*.log
+.env
+.env.*.local
+
+# node
+DSA_Tracker_backend/node_modules/
+DSA_Tracker2/node_modules/
+# build outputs
+dist/
+build/
+
+# frontend & backend envs
+DSA_Tracker_backend/.env
+DSA_Tracker2/.env
