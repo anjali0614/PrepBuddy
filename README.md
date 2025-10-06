@@ -35,10 +35,10 @@ Welcome to **Prep Buddy** — your all-in-one platform to organize DSA prep and 
 
 ## 🛠️ Tech Stack
 
-| Frontend           | Backend               | Cloud Storage    | Hosting              |
-|--------------------|-----------------------|------------------|----------------------|
-| React, Redux, Tailwind | Node.js, Express, bcrypt | Cloudinary       | Vercel (Frontend), Render (Backend) |
-| Axios              | MongoDB Atlas         |                  |                      |
+| Frontend           | Backend               | Cloud Storage    | 
+|--------------------|-----------------------|------------------|
+| React, Redux, Tailwind | Node.js, Express, bcrypt | Cloudinary| 
+| Axios              | MongoDB Atlas         |                  |               
 
 ---
 
