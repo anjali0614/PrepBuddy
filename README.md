@@ -4,13 +4,6 @@ Welcome to **Prep Buddy** — your all-in-one platform to organize DSA prep and 
 
 ---
 
-## 🚀 Live Demo
-
-**Production:**  
-[https://prep-buddy-eight.vercel.app](https://prep-buddy-nine.vercel.app/)
-
----
-
 ## 🏷️ Table of Contents
 
 - [Features](#features)
