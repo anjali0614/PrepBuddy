@@ -114,7 +114,7 @@ We welcome enhancements and bug fixes!
 
 ## 🧑‍💻 Maintainers
 
-- Ankush Verma – [GitHub](https://github.com/vermaankush589)
+- Anjali Mina – [GitHub](https://github.com/anjali0614)
 
 ---
 
